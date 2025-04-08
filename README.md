@@ -2,12 +2,7 @@
 
 ## 👋 Olá! Eu sou o Igor
 
-🔭 Atualmente trabalho como **Analista de Big Data na ATI**, onde atuo com:
-- Manutenção e monitoramento do ambiente BigData
-- Análise de viabilidade, estimativa de prazos e acompanhamento de entregas
-- Apresentações técnicas e consultoria sobre BigData
-- Interação com equipes de TIC, desenvolvedores e usuários
-- Participação em seminários, treinamentos e estudos para atualização tecnológica
+🔭 Atualmente trabalho como **Analista de Big Data na ATI**.
 
 🌱 No momento, estou cursando **Mestrado em Informática Aplicada**, com linha de pesquisa em **Computação Quântica**.
 
